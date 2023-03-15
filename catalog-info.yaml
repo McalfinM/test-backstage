@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: test-backstage
+metadata:
+  name: test
+  annotations:
+    github.com/project-slug: McalfinM/test-backstage
+spec:
+  type: other
+  lifecycle: unknown
+  owner: TS-BE
