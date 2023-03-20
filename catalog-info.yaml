@@ -11,3 +11,12 @@ spec:
   type: website
   owner: john@example.com
   lifecycle: dev
+
+catalog:
+  locations:
+    - type: url
+      target: https://github.com/McalfinM/test-backstage
+      metadata:
+        type: template
+        name: my-template
+        description: My custom template
