@@ -18,5 +18,5 @@ catalog:
       target: https://github.com/McalfinM/test-backstage
       metadata:
         type: template
-        name: my-template
+        name: tesssbac
         description: My custom template
